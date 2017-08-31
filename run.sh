@@ -1,5 +1,7 @@
 #!/bin/bash
 
+sudo apt-get install curl
+
 # Git configuration
 
 ln -sf $(pwd)/git/gitconfig ~/.gitconfig
